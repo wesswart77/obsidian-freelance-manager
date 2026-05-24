@@ -1,9 +1,9 @@
 {
   "id": "freelance-manager",
   "name": "Freelance Manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.4.0",
-  "description": "Manage freelance clients, projects, time logs, and invoices in Obsidian. Plain markdown, no external services.",
+  "description": "Manage freelance clients, projects, time logs, and invoices. Plain markdown, no external services.",
   "author": "wesswart77",
   "authorUrl": "https://github.com/wesswart77",
   "fundingUrl": "https://www.buymeacoffee.com/wesswart77",
